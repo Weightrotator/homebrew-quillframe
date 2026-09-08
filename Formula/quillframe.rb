@@ -11,6 +11,7 @@ class Quillframe < Formula
 
   def install
     libexec.install "quillframe-macos-arm64" => "quillframe"
+    chmod 0755, libexec/"quillframe"
     (bin/"quillframe").write <<~SH
       #!/bin/sh
       case "${1:-} ${2:-}" in

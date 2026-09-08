@@ -7,9 +7,12 @@ Quillframe currently supports Apple Silicon Macs running macOS 13 or newer.
 ## Install
 
 ```bash
+brew trust --formula Weightrotator/quillframe/quillframe
 brew tap Weightrotator/quillframe
 brew install quillframe
 ```
+
+Current Homebrew releases require the first command before loading Ruby from a third-party formula. It trusts only the Quillframe formula, not every future package in the tap. This is a Homebrew security policy, not an approval process for the Quillframe name.
 
 Upgrade later with:
 
