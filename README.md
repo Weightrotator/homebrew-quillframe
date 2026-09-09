@@ -1,6 +1,6 @@
 # Homebrew tap for Quillframe
 
-This is the official Homebrew tap for [Quillframe](https://github.com/Weightrotator/Quillframe), a human-directed system for rigorous AI-assisted novel writing.
+This is the official Homebrew tap for [Quillframe](https://github.com/Weightrotator/Quillframe), a human-directed system for rigorous AI-assisted novel writing, progressive creative exploration, and continuity-safe story knowledge.
 
 Quillframe currently supports Apple Silicon Macs running macOS 13 or newer.
 
