@@ -1,9 +1,9 @@
 class Quillframe < Formula
   desc "Human-directed system for rigorous AI-assisted novel writing"
   homepage "https://github.com/Weightrotator/Quillframe"
-  url "https://github.com/Weightrotator/Quillframe/releases/download/v0.5.0a3/quillframe-macos-arm64"
-  version "0.5.0a3"
-  sha256 "195e8b7df130daf7952743ba3fc19b05c7fdea4068bc7444e2a5018a6b4601ce"
+  url "https://github.com/Weightrotator/Quillframe/releases/download/v0.5.0a4/quillframe-macos-arm64"
+  version "0.5.0a4"
+  sha256 "c2993ace21e7d59bf3e8a6f17eff5799c77877fd36ba849052a2f92568e6e128"
   license :cannot_represent
 
   depends_on arch: :arm64
